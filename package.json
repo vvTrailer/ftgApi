@@ -1,0 +1,11 @@
+{
+  "name": "ftgapi",
+  "version": "1.0.0",
+  "description": "Freetrailer REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Vasil Vasilev",
+  "license": "ISC"
+}
